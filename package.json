@@ -1,6 +1,6 @@
 {
 	"name": "shaft",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "simple framed binary network protocol",
 	"main": "./lib/shaft.js",
 

@@ -1,0 +1,13 @@
+{
+	"name": "shaft",
+	"version": "0.0.1",
+	"description": "simple framed binary network protocol",
+	"main": "./lib/shaft.js",
+
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/jclulow/node-shaft.git"
+	},
+
+	"engines": [ "node >=0.8.0" ]
+}

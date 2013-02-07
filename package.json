@@ -3,6 +3,7 @@
 	"version": "0.0.2",
 	"description": "simple framed binary network protocol",
 	"main": "./lib/shaft.js",
+        "author": "Joshua M. Clulow <jmc@joyent.com>",
 
 	"repository": {
 		"type": "git",
